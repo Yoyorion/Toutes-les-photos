@@ -1,0 +1,23 @@
+h2
+{ 
+ 	color: darkred;
+ }
+ h1
+{ 
+ 	color: red;
+ }
+ body
+ {
+
+ 	background-color: darkgrey;
+ }
+
+ #cadre
+ {
+
+ 	width: 500px;
+ 	margin:0 auto;
+ 	background-color: grey;
+ 	text-align: center;
+
+ }
